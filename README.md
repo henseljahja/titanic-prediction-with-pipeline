@@ -1,7 +1,30 @@
 # learn-ml
-A Walkthrough of every single process needed for creating a machine learning model
+A Walkthrough of every single process needed for creating a machine learning model from the basic, to advance
 
-**We Will use the [Titanic datasets](https://www.kaggle.com/c/titanic/), its robusity and variance of type data make it perfect for a walk through**
-
-### Run it on [Google Colab](https://colab.research.google.com/drive/1oqgfObmw4THkxOA9sWvTiOTOFRBfZe3l?usp=sharing)
-### or clone it using ` git clone https://github.com/henseljahja/learn-ml.git`
+### Sylabus
+<!-- MarkdownTOC depth=4 -->
+- [**Modul 1  : Basic Python**]
+- [**Modul 2  : Basic Numpy**]
+- [**Modul 3  : Basic Numpy**]
+- [**Modul 4  : Data Pre-Processing**]
+- [**Modul 5  : Supervised Learning : Classification**]
+- [**Modul 6  : Supervised Learning : Regression**]
+- [**Modul 7  : Unsupervised Learning**]
+- [**Modul 8  : Automation Using Pipeline**]
+- [**Modul 9  : Dimensionality Reduction**]
+- [**Modul 10  : Evaluation**]
+- [**Modul 11  : Hyperparameter Tuning**]
+### Exercise
+- [**Modul 1  : Basic Python**]
+- [**Modul 2  : Basic Numpy**]
+- [**Modul 3  : Basic Numpy**]
+- [**Modul 4  : Data Pre-Processing**]
+- [**Modul 5  : Supervised Learning : Classification**]
+- [**Modul 6  : Supervised Learning : Regression**]
+- [**Modul 7  : Unsupervised Learning**]
+- [**Modul 8  : Automation Using Pipeline**]
+- [**Modul 9  : Dimensionality Reduction**]
+- [**Modul 10  : Evaluation**]
+- [**Modul 11  : Hyperparameter Tuning**]
+### Test Case
+- [**Titanic Datasets**]
