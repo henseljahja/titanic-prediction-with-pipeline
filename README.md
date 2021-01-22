@@ -7,6 +7,8 @@ A Walkthrough of every single process needed for creating a machine learning mod
 - [**Modul 2  : Basic Numpy**]
 - [**Modul 3  : Basic Numpy**]
 - [**Modul 4  : Data Pre-Processing**](https://colab.research.google.com/drive/1lx7mi8_J6NB1rdPf4ZHZHahqJbVtd01D?usp=sharing)
+  - 4.1 Data Cleaning
+  - 4.2 Feature Scaling
 - [**Modul 5  : Supervised Learning : Classification**]
 - [**Modul 6  : Supervised Learning : Regression**]
 - [**Modul 7  : Unsupervised Learning**]
