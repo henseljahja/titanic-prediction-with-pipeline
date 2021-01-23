@@ -1,7 +1,7 @@
 # learn-ml
 A Walkthrough of every single process needed for creating a machine learning model from the basic, to advance
 
-### Sylabus
+### [**Sylabus**](https://colab.research.google.com/github/henseljahja/learn-ml/blob/master/)
 <!-- MarkdownTOC depth=4 -->
 - [**Modul 1  : Basic Python**]
 - [**Modul 2  : Basic Numpy**]
